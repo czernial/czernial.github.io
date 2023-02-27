@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: czernial github
+title: Chris Zernial on Github
 email: czernial.md@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -21,12 +21,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://czernial.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+# twitter_username: 
 github_username:  czernial
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-lanyon
+theme: minima     # this is the original theme that I want to replace with lanyon
+# theme: jekyll-theme-lanyon
 plugins:
   - jekyll-feed
   - jekyll-paginate
