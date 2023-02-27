@@ -1,4 +1,4 @@
-# czernial.github.io
+# Chris Zernial on Github
 
 Source of my work stuff, mental stuff, and fun stuff.
 
