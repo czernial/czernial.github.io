@@ -26,13 +26,12 @@ github_username:  czernial
 
 # Build settings
 markdown: kramdown
-# theme: minima     # this is the original theme that I want to replace with lanyon
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minima     # this is the original theme that I want to replace with lanyon
 # theme: jekyll-theme-lanyon
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-remote-theme
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
