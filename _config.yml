@@ -17,8 +17,8 @@ title: Chris Zernial on Github
 email: czernial.md@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   I write it down so I don't have to remember it...
-  Emergency Medicine: differentials, quick phrases, notes 
-  Education: Curriculum and Instruction
+  Emergency Medicine: quick phrases and notes 
+  Education: curriculum and instruction
   Science: Physics, the Universe, and more
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://czernial.github.io" # the base hostname & protocol for your site, e.g. http://example.com
